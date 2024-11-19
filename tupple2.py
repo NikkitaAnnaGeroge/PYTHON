@@ -1,3 +1,7 @@
+author:Nikkita Anna George
+created on:16/11/24
+program to print stock value
+
 inventory=[
     ("laptop",2,5000.00),
     ("headphones",3,2000.00),
